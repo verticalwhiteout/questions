@@ -1,8 +1,6 @@
-# Questions
-*Website for documenting how I answer questions I have.*
+# README  
+*testing the github repository for building and hosting a webpage
 
 ---
 
-1. Has the amount of greenspace in urban planning increased or decreased over time in Perth City?
-2. Has the average house price in WA changed relative to the average income in WA over the last 50 years?
-3. How do you create and host a tiny (simple) website?
+Not sure if this is what I'm after, but I'm going to attempt to figure this out...
