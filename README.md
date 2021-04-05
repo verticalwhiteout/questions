@@ -1,5 +1,5 @@
 # README  
-*testing the github repository for building and hosting a webpage
+*testing the github repository for building and hosting a webpage*
 
 ---
 
